@@ -18,4 +18,3 @@ try:
 finally:
     # close the connection
     connection.close()
-
